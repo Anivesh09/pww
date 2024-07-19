@@ -1,0 +1,22 @@
+{
+    "java.project.sourcePaths": [
+        "Arrays",
+        "Basics",
+        "BasicsSortingAlgorithms",
+        "BinaryTree1",
+        "BinaryTree2",
+        "LinkedList",
+        "loops",
+        "OopsInJava",
+        "PatternPrinting",
+        "Queue",
+        "Recursion",
+        "src",
+        "Stack"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [],
+    "java.debug.settings.onBuildFailureProceed": true,
+    "C_Cpp.errorSquiggles": "enabled",
+    "liveServer.settings.port": 5501
+}

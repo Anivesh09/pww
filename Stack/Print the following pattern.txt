@@ -1,0 +1,6 @@
+Print the following pattern
+1234321
+123 321
+12   21
+1     1
+
